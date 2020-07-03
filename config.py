@@ -1,0 +1,3 @@
+class Config(object):
+    BOT_TOKEN = "719898248:AAEzUuUWW0wbN4KvsCHbCzCC6ehahCfz6Nw"
+    CHANNEL_ID = -1001345420261
